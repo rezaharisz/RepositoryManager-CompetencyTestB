@@ -100,3 +100,4 @@ D:\Projects\Formulatrix\Repository Manager\RepositoryUnitTest\obj\Debug\net8.0\r
 D:\Projects\Formulatrix\Repository Manager\RepositoryUnitTest\obj\Debug\net8.0\RepositoryUnitTest.pdb
 D:\Projects\Formulatrix\Repository Manager\RepositoryUnitTest\obj\Debug\net8.0\RepositoryUnitTest.genruntimeconfig.cache
 D:\Projects\Formulatrix\Repository Manager\RepositoryUnitTest\obj\Debug\net8.0\ref\RepositoryUnitTest.dll
+D:\Projects\Formulatrix\Repository Manager\RepositoryUnitTest\obj\Debug\net8.0\RepositoryUnitTest.sourcelink.json
