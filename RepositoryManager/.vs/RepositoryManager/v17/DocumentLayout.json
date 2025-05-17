@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C536E403-A350-4580-9D4C-60832B037827}|..\\RepositoryUnitTest\\RepositoryUnitTest.csproj|d:\\projects\\formulatrix\\repository manager\\repositoryunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|d:\\projects\\formulatrix\\repository manager\\repositorymanager\\repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|solutionrelative:repository\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|d:\\projects\\formulatrix\\repository manager\\repositorymanager\\repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|solutionrelative:repository\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|d:\\projects\\formulatrix\\repository manager\\repositorymanager\\repository\\repositoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|solutionrelative:repository\\repositoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|d:\\projects\\formulatrix\\repository manager\\repositorymanager\\enum\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB55867-1A1D-4944-BD0D-70D8C6944BAF}|RepositoryManager.csproj|solutionrelative:enum\\itemtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45AE26E1-76B8-4B46-9982-AFECCDE435A5}|..\\RepositoryConsole\\RepositoryConsole.csproj|d:\\projects\\formulatrix\\repository manager\\repositoryconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{53d10d51-d2d8-3452-ab88-12f687ed0782}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryUnitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\RepositoryUnitTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:30:00.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryConsole\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryConsole\\Program.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryConsole\\Program.cs",
+              "RelativeToolTip": "..\\RepositoryConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:49:22.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryManager.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\RepositoryManager.cs",
+              "RelativeToolTip": "Repository\\RepositoryManager.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:07:03.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepositoryManager.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\IRepositoryManager.cs",
+              "RelativeToolTip": "Repository\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:05:41.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryItem.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\RepositoryItem.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryItem.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Repository\\RepositoryItem.cs",
+              "RelativeToolTip": "Repository\\RepositoryItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:04:44.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemType.cs",
+              "DocumentMoniker": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Enum\\ItemType.cs",
+              "RelativeDocumentMoniker": "Enum\\ItemType.cs",
+              "ToolTip": "D:\\Projects\\Formulatrix\\Repository Manager\\RepositoryManager\\Enum\\ItemType.cs",
+              "RelativeToolTip": "Enum\\ItemType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T04:41:06.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
